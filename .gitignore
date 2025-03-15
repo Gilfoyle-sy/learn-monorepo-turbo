@@ -1,0 +1,23 @@
+# 忽略node_modules文件夹
+node_modules/
+
+# 忽略dist文件夹
+dist/
+
+# 忽略.idea文件夹
+.idea/
+
+# 忽略.vscode文件夹
+.vscode/
+
+# 忽略.DS_Store文件
+.DS_Store
+
+# 忽略package-lock.json文件
+package-lock.json
+
+# 忽略yarn.lock文件
+yarn.lock
+
+# 忽略.env文件
+.env
